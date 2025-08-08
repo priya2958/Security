@@ -2,7 +2,7 @@
 
 # Prompts
 
-Secure a React + Node.js REST API following industry standards.
+Create a React + Node.js REST API following industry standards.
 
 Requirements
 Authentication: Use OAuth 2.0 or JWT
